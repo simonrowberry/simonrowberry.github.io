@@ -1,0 +1,110 @@
+[
+	{"key":"Traditional",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.5,"name":"Traditional"},
+			{"axis":"Efficiency","value":0.5,"name":"Traditional"},
+			{"axis":"Respondability","value":0.5,"name":"Traditional"},
+			{"axis":"Cost","value":0.5,"name":"Traditional"},
+			{"axis":"Automation","value":0.5,"name":"Traditional"},
+			{"axis":"Credit","value":0.5,"name":"Traditional"},
+			{"axis":"Revisionality","value":0.5,"name":"Traditional"},
+			{"axis":"Mobility","value":0.5,"name":"Traditional"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Traditional"}	
+	]},
+	{"key":"Cascading",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.5,"name":"Cascading"},
+			{"axis":"Efficiency","value":1,"name":"Cascading"},
+			{"axis":"Respondability","value":0.4,"name":"Cascading"},
+			{"axis":"Cost","value":0.3,"name":"Cascading"},
+			{"axis":"Automation","value":0.6,"name":"Cascading"},
+			{"axis":"Credit","value":0.5,"name":"Cascading"},
+			{"axis":"Revisionality","value":0.3,"name":"Cascading"},
+			{"axis":"Mobility","value":0.9,"name":"Cascading"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Cascading"}
+	]},
+	{"key":"Portable",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.5,"name":"Portable"},
+			{"axis":"Efficiency","value":1,"name":"Portable"},
+			{"axis":"Respondability","value":0.4,"name":"Portable"},
+			{"axis":"Cost","value":0.5,"name":"Portable"},
+			{"axis":"Automation","value":0.5,"name":"Portable"},
+			{"axis":"Credit","value":0.5,"name":"Portable"},
+			{"axis":"Revisionality","value":0.33,"name":"Portable"},
+			{"axis":"Mobility","value":1,"name":"Portable"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Portable"}
+	]},
+	{"key":"Law",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.25,"name":"Law"},
+			{"axis":"Efficiency","value":0.7,"name":"Law"},
+			{"axis":"Respondability","value":0.3,"name":"Law"},
+			{"axis":"Cost","value":0.8,"name":"Law"},
+			{"axis":"Automation","value":0.5,"name":"Law"},
+			{"axis":"Credit","value":0.3,"name":"Law"},
+			{"axis":"Revisionality","value":0.3,"name":"Law"},
+			{"axis":"Mobility","value":1,"name":"Law"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Law"}
+	]},
+	{"key":"By Endorsement",
+	"values":[
+			{"axis":"Peer Hierarchy","value":1,"name":"By Endorsement"},
+			{"axis":"Efficiency","value":0.5,"name":"By Endorsement"},
+			{"axis":"Respondability","value":0.5,"name":"By Endorsement"},
+			{"axis":"Cost","value":0.5,"name":"By Endorsement"},
+			{"axis":"Automation","value":0.5,"name":"By Endorsement"},
+			{"axis":"Credit","value":0.75,"name":"By Endorsement"},
+			{"axis":"Revisionality","value":1,"name":"By Endorsement"},
+			{"axis":"Mobility","value":0.5,"name":"By Endorsement"},
+			{"axis":"Technical Mediation","value":0.5,"name":"By Endorsement"}		
+	]},
+	{"key":"Hybrid",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.5,"name":"Hybrid"},
+			{"axis":"Efficiency","value":0.5,"name":"Hybrid"},
+			{"axis":"Respondability","value":0.5,"name":"Hybrid"},
+			{"axis":"Cost","value":0.6,"name":"Hybrid"},
+			{"axis":"Automation","value":0.5,"name":"Hybrid"},
+			{"axis":"Credit","value":0.7,"name":"Hybrid"},
+			{"axis":"Revisionality","value":1,"name":"Hybrid"},
+			{"axis":"Mobility","value":0.5,"name":"Hybrid"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Hybrid"}		
+	]},
+	{"key":"Special",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.4,"name":"Special"},
+			{"axis":"Efficiency","value":0.3,"name":"Special"},
+			{"axis":"Respondability","value":0.5,"name":"Special"},
+			{"axis":"Cost","value":0.7,"name":"Special"},
+			{"axis":"Automation","value":0.5,"name":"Special"},
+			{"axis":"Credit","value":0.5,"name":"Special"},
+			{"axis":"Revisionality","value":1,"name":"Special"},
+			{"axis":"Mobility","value":0.3,"name":"Special"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Special"}		
+	]},
+	{"key":"Pre-prints",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0,"name":"Pre-prints"},
+			{"axis":"Efficiency","value":0.7,"name":"Pre-prints"},
+			{"axis":"Respondability","value":0.6,"name":"Pre-prints"},
+			{"axis":"Cost","value":0.6,"name":"Pre-prints"},
+			{"axis":"Automation","value":0.5,"name":"Pre-prints"},
+			{"axis":"Credit","value":0.3,"name":"Pre-prints"},
+			{"axis":"Revisionality","value":0.8,"name":"Pre-prints"},
+			{"axis":"Mobility","value":0.8,"name":"Pre-prints"},
+			{"axis":"Technical Mediation","value":0.7,"name":"Pre-prints"}		
+	]},
+	{"key":"Expresso",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.5,"name":"Expresso"},
+			{"axis":"Efficiency","value":1,"name":"Expresso"},
+			{"axis":"Respondability","value":0.3,"name":"Expresso"},
+			{"axis":"Cost","value":0.7,"name":"Expresso"},
+			{"axis":"Automation","value":1,"name":"Expresso"},
+			{"axis":"Credit","value":0.3,"name":"Expresso"},
+			{"axis":"Revisionality","value":0.4,"name":"Expresso"},
+			{"axis":"Mobility","value":0.5,"name":"Expresso"},
+			{"axis":"Technical Mediation","value":0.7,"name":"Expresso"}	
+	]}
+]

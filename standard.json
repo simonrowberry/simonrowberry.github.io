@@ -1,0 +1,62 @@
+[
+	{"key":"Traditional",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.5,"name":"Traditional"},
+			{"axis":"Efficiency","value":0.5,"name":"Traditional"},
+			{"axis":"Respondability","value":0.5,"name":"Traditional"},
+			{"axis":"Cost","value":0.5,"name":"Traditional"},
+			{"axis":"Automation","value":0.5,"name":"Traditional"},
+			{"axis":"Credit","value":0.5,"name":"Traditional"},
+			{"axis":"Revisionality","value":0.5,"name":"Traditional"},
+			{"axis":"Mobility","value":0.5,"name":"Traditional"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Traditional"}	
+	]},
+	{"key":"Open",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.4,"name":"Open"},
+			{"axis":"Efficiency","value":0.4,"name":"Open"},
+			{"axis":"Respondability","value":0.75,"name":"Open"},
+			{"axis":"Cost","value":0.4,"name":"Open"},
+			{"axis":"Automation","value":0.5,"name":"Open"},
+			{"axis":"Credit","value":0.75,"name":"Open"},
+			{"axis":"Revisionality","value":1,"name":"Open"},
+			{"axis":"Mobility","value":0.25,"name":"Open"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Open"}
+	]},
+	{"key":"Published",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.6,"name":"Published"},
+			{"axis":"Efficiency","value":0.4,"name":"Published"},
+			{"axis":"Respondability","value":0.5,"name":"Published"},
+			{"axis":"Cost","value":0.6,"name":"Published"},
+			{"axis":"Automation","value":0.5,"name":"Published"},
+			{"axis":"Credit","value":0.75,"name":"Published"},
+			{"axis":"Revisionality","value":0.5,"name":"Published"},
+			{"axis":"Mobility","value":0.5,"name":"Published"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Published"}	
+	]},
+	{"key":"Transparent",
+	"values":[
+			{"axis":"Peer Hierarchy","value":0.5,"name":"Transparent"},
+			{"axis":"Efficiency","value":0.4,"name":"Transparent"},
+			{"axis":"Respondability","value":0.75,"name":"Transparent"},
+			{"axis":"Cost","value":0.6,"name":"Transparent"},
+			{"axis":"Automation","value":0.5,"name":"Transparent"},
+			{"axis":"Credit","value":0.25,"name":"Transparent"},
+			{"axis":"Revisionality","value":0.5,"name":"Transparent"},
+			{"axis":"Mobility","value":0.25,"name":"Transparent"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Transparent"}
+	]},
+	{"key":"Post-Graduate",
+	"values":[
+			{"axis":"Peer Hierarchy","value":1,"name":"Post-Graduate"},
+			{"axis":"Efficiency","value":0.6,"name":"Post-Graduate"},
+			{"axis":"Respondability","value":0.5,"name":"Post-Graduate"},
+			{"axis":"Cost","value":0.5,"name":"Post-Graduate"},
+			{"axis":"Automation","value":0.5,"name":"Post-Graduate"},
+			{"axis":"Credit","value":0.5,"name":"Post-Graduate"},
+			{"axis":"Revisionality","value":0.5,"name":"Post-Graduate"},
+			{"axis":"Mobility","value":0.35,"name":"Post-Graduate"},
+			{"axis":"Technical Mediation","value":0.5,"name":"Post-Graduate"}			
+	]}
+]
